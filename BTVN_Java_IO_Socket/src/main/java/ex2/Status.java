@@ -10,5 +10,5 @@ package ex2;
  * @author P.T.B
  */
 public enum Status {
-	INIT,READY,SELECT
+    INIT,READY,SELECT
 }
